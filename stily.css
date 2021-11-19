@@ -1,0 +1,250 @@
+* {
+   
+    transition: all .3s;
+}
+.general {
+    width: 1250px;
+    height: 1000px;
+    margin: 50px auto;
+  
+}
+.shapka {
+    width: 100%;
+    height: 80px;
+    
+}
+.nazva {
+    width: 100%;
+    height: 80px;
+   background-image: url("img/pngegg\ \(1\).png");
+   
+    background-size: 60%;
+   text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+h1 {
+    padding-top: 17px;
+     
+}
+.punkt {
+    width: 100%;
+    height: 50px;
+   
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    
+   
+}
+.l {
+    margin-top: 10px;
+    width: 76%;
+    height: 900px;
+    background: #8faec2;
+    float: left;
+}
+.img {
+    width: 100%;
+    height: 490px;
+}
+.text {
+    width: 98%;
+    height: 400px;
+    margin-left: 10px;
+    text-align: justify;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.imgg {
+    width: 100%;
+}
+.r {
+    margin-top: 10px;
+    width: 23.5%;
+    height: 900px;
+    background: #8faec2;
+    float: right;
+}
+.menu {
+    width: 100%;
+    height: 50px;
+    
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+
+
+@media only screen and (max-width: 768px){
+   
+    .general {
+        width: 710px;
+        height: 920px;
+        margin: 10px auto;
+      
+    }
+    .shapka {
+        width: 100%;
+        height: 40px;
+        
+    }
+    .nazva {
+        width: 100%;
+        height: 40px;
+       background-image: url("img/pngegg\ \(1\).png");
+       
+        background-size: 60%;
+       text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 11px;
+        color: white;
+    }
+    
+    h1 {
+        padding-top: 10px;
+         
+    }
+    .punkt {
+        width: 20%;
+        height: 50px;
+       
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 12px;
+        text-decoration: none;
+        text-transform: uppercase;
+        float: left;
+        
+       
+    }
+    .l {
+        margin-top: 10px;
+        width: 100%;
+        height: 800px;
+        background: #8faec2;
+        
+    }
+    .img {
+        width: 100%;
+        height: 400px;
+    }
+    .text {
+        width: 97%;
+        height: 400px;
+        margin-left: 6px;
+        text-align: justify;
+        font-size: 12px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       
+    }
+    .imgg {
+        width: 100%;
+    }
+    .r {
+        margin-top: 10px;
+        width: 100%;
+        height: 50px;
+        background: #8faec2;
+        
+    }
+    .menu {
+        width: 20%;
+        height: 50px;
+        
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 0px;
+        float: left;
+    }    
+    }
+
+@media only screen and (max-width: 320px){
+.general {
+    width: 300px;
+    height: 720px;
+    margin: 10px auto;
+  
+}
+.shapka {
+    width: 100%;
+    height: 40px;
+    
+}
+.nazva {
+    width: 100%;
+    height: 40px;
+   background-image: url("img/pngegg\ \(1\).png");
+   
+    background-size: 60%;
+   text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 11px;
+    color: white;
+}
+
+h1 {
+    padding-top: 10px;
+     
+}
+.punkt {
+    width: 20%;
+    height: 50px;
+   
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+    text-decoration: none;
+    text-transform: uppercase;
+    float: left;
+    
+   
+}
+.l {
+    margin-top: 10px;
+    width: 100%;
+    height: 600px;
+    background: #8faec2;
+    
+}
+.img {
+    width: 100%;
+    height: 250px;
+}
+.text {
+    width: 97%;
+    height: 350px;
+    margin-left: 6px;
+    text-align: justify;
+    font-size: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+.imgg {
+    width: 100%;
+}
+.r {
+    margin-top: 10px;
+    width: 100%;
+    height: 50px;
+    background: #8faec2;
+    
+}
+.menu {
+    width: 20%;
+    height: 50px;
+    
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 0px;
+    float: left;
+}    
+}
+
+
+
+
